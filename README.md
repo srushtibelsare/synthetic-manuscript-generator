@@ -343,3 +343,12 @@ print(dataset)
 - **Neural Style Transfer Augmentation**: Condition synthetic layouts on authentic historical GAN/Diffusion texture checkpoints.
 - **Character Bounding Box & Polygon Ground Truth**: Export COCO/YOLO segmentation masks for word-level and character-level HTR.
 - **Additional Scripts**: Extend pipeline to Grantha, Tigalari, Newari, and Nandinagari historical scripts.
+
+- 
+## Hugging Face Dataset
+
+**Dataset Name:** `srushtibelsare/synthetic-manuscript-dataset`
+
+**Dataset Link:** https://huggingface.co/datasets/srushtibelsare/synthetic-manuscript-dataset
+
+The dataset contains 300 synthetic manuscript images with corresponding Markdown annotations across Devanagari, Modi, and Sharada scripts. It is organized into training, validation, and test splits.
